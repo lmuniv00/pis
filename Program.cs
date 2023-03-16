@@ -8,6 +8,7 @@ namespace Luka_Munivrana
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("Munivrana.");
         }
     }
 }
